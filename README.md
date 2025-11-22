@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @i-am-usman
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning dBase
+- 🌱 I’m currently learning DeepLearning
 - 💞️ I’m looking to collaborate on any programmer team.
 - 📫 Reach me at Linkedin: https://www.linkedin.com/in/muhammad-usman-ai-ml/
 - 😄 Pronouns: he/him
